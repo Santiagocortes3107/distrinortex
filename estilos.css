@@ -1,0 +1,57 @@
+/* reset estilos */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+    html {
+
+      font-size: 62.5%;
+    }
+
+div {
+
+  font-size: 2rem;
+}
+
+.navbar-brand {
+
+  font-size: 4rem;
+
+}
+
+#total-productos-seleccionados {
+
+  font-size: 4rem;
+}
+
+#precio-total {
+
+  font-size: 4rem;
+}
+
+
+.contacto{
+
+  font-size: 6rem;
+}
+
+
+.fondoform {
+  font-size: 4rem;
+}
+
+.form-control{
+
+  font-size: 4rem;
+
+}
+
+.boton {
+  font-size: 2rem;
+}
+
+div {
+
+  margin-left: 20px;
+}

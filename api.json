@@ -1,0 +1,29 @@
+{
+    "productos": [
+      {
+        "nombre": "Detergente para ropa",
+        "precio": 1500.0,
+        "disponibilidad": "En stock"
+      },
+      {
+        "nombre": "Limpiador multiusos",
+        "precio": 800.0,
+        "disponibilidad": "En stock"
+      },
+      {
+        "nombre": "Limpiador de vidrios",
+        "precio": 500.0,
+        "disponibilidad": "En stock"
+      },
+      {
+        "nombre": "Desengrasante para cocina",
+        "precio": 500.0,
+        "disponibilidad": "En stock"
+      },
+      {
+        "nombre": "Jabón líquido para manos",
+        "precio": 1000.0,
+        "disponibilidad": "En stock"
+      }
+    ]
+  }
